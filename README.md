@@ -60,7 +60,6 @@ Welcome to my GitHub profile! I’m a B.Tech student in **Computer Science & Eng
 - 📧 Email: [dharmintank09@gmail.com](mailto:dharmintank09@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/dharmin09](https://www.linkedin.com/in/dharmin09/)  
 - 📸 Instagram: [@dharmintank_09](https://instagram.com/dharmintank_09)  
-- 💻 GitHub: [github.com/Dharmin09](https://github.com/Dharmin09)
 
 ---
 
